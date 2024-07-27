@@ -1,0 +1,4 @@
+speechrecognition
+wikipedia
+openai
+pyaudio
